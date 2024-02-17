@@ -2,18 +2,22 @@
 
 Na serveru se nachází, plugin Residence(Pro hráče) a WorldGuard(Tento je pouze pro admin tým.)
 
+<center>
+
 [![Video Tutorial](https://media.forgecdn.net/avatars/71/275/636163258283180440.png)](https://www.youtube.com/watch?v=CaSxLwY0tqY)
+</center>
 
-**Popis infomací**
-Hráč má k dipozici 150x150 velikost residence.
-- Hráč s běžným rankem může vlastnit 5 residencí zadarmo.
-VIP má k dipozici 250x250 velikost residence.
-- Hráč s vip rankem může vlastnit až 15 residencí.
+### Popis infomací
+> [!NOTE]
+> **Hráč** má k dipozici 5 residencí o velikosti 150x150.
+> **VIP**má k dipozici 15 residencí o velikosti 250x250.
 
-Nejlehčí cesta k vytvoření residence je stoupnout si na blok a napsat /res auto, vytvoří ti residenci o velikost 150x150, v závislosti na limitu.
+> [!TIP]
+> Nejrychleji residenci vytvoříš pomocí příkazu /res auto, tam kde stojíš se vytvoří.
+> Respektuj ale to že residence při ranku moderátor nebo admin může vytvořit obrovskou residenci !!!
 
 
-**Dostupné příkazy**
+### Dostupné příkazy
 Použij /res [příkaz] ? <strana> pro zobrazení další nápovědy.
 - /res create - Vytvořit residenci.
 - /res auto - Vytvořit maximální počet residencí kolem tebe
@@ -76,7 +80,7 @@ Ochranu containerů zajištuje plugin Bolt.
 
 Ochrana containerů je zejména zaměřená na ochranu, pecí a dveří či hopperů obrazů a armostandů atd.
 
-**Dostupné příkazy**
+#### Dostupné příkazy
 /lock - Uzamče container.
 /unlock - Odemče container.
 /bolt edit (add|remove) <player> - Přidá nebo Odstraní hráče z povolení využívat container.

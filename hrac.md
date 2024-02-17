@@ -1,10 +1,10 @@
-### Hráčské Příkazy
+# Hráčské Příkazy
 
 Zde najdeš seznam příkazů dostupné pro hráče, nejsou zde všechny ale více méně tyhle jsou nejdůležitější.
 
-**Dostupné Příkazy pro Hráče**
+## Dostupné Příkazy pro Hráče
 
-Ekonomika:
+**Ekonomika:**
 - /money bal - Zjistí stav tvého primárního konta.
 - /money pay, /pay <nick> <částka> - Pošleš primární peníze hráči.
 - /money top - Vypíše nejbohatší hráče s primárními penězi.
@@ -14,7 +14,7 @@ Ekonomika:
 - /cpay <nick> <částka> - Pošleš hráči kredity.
 - /credit bal - Vypíše stav tvého stav kreditního konta.
 
-Běžné Príkazy:
+**Běžné Príkazy:**
 - /afk - Nastaví hráče jako AFK.
 - /aukce - Otevře okno s aukcemi.
 - /backpack - Otevře okno s uložným prostorem (Každá skupina má jiný kapacitní prostor.)
@@ -42,26 +42,26 @@ Běžné Príkazy:
 - /reward - Otevře okno s odměnami.
 - /res help - Vypíše příkazy pro residenci.
 
-Hlasování & VoteParty:
+**Hlasování & VoteParty:**
 - /vote - Vypíše odkazy pro hlasování, kliknutím na ně tě přesměrují na hlasování již s vyplněným jménem.
 - /voteparty - Vypíše stav vote party.
 
-Level & Levely:
+**Level & Levely:**
 - /level - Vypíše stav tvého postupu ve virtuálním levelu.
 - /leveltop - Vypíše top hráče s největším levelem.
 
-Discord Propojení:
+**Discord Propojení:**
 - /discord link <discord_id> - Propojí tvůj minecraft účet s discord účtem, tímto se ti po odpojení synchronizují ranky na discordu.
 
-Bedny / MagicBoxy:
+**Bedny / MagicBoxy:**
 - /cc, crate, crazycrate, crazycrates - Otevře okno s magic boxy, lze otevírat pokud máte virtuální klíč.
 - /key, keys - Vypíše jestli máš virtuální klíče k magic boxu nebo ne.
 
-Příkazy pro ochranu beden atd:
+**Příkazy pro ochranu beden atd:**
 - /lock - Zamčeš bednu, nebo dveře hopper, obrázek armor stand atd..
 - /unlock - Odemčeš bednu, nebo dveře hopper, obrázek armor stand atd..
 
-BossBar Životy:
+**BossBar Životy:**
 - /bossbarhealth - Vypíše pomocné příkazy pro bossbar životy.
 - /bossbarhealth show - Zobrazí boss bar s životy.
 - /bossbarhealth hide - Skryje boss bar s životy.

@@ -1,7 +1,8 @@
-### VIP Příkazy
+# VIP Příkazy
 
-**Příkazy**
-| Ostatní stejné jako hráčské |
+### Příkazy
+> [!NOTE]
+> Tito příkazy jsou dostupné pro VIP hráče, ostatní jsou stejné jako pro hráče.
 
 - /anvil - Otevře okno s kovadlinou
 - /crafting - Virtuální crafting
@@ -13,6 +14,9 @@
 - /delwarp <warp> - Odstraní tvůj warp.
 - /fly - Aktivuje a Deaktivuje létání.
 - /vipexpire - Zjistíš kdy ti vyprší VIP.
+
+> [!TIP]
+> Cena VIP je plně adekvátní k nabízené službě které VIP člen obdrží.
 
 **Výhody VIP, 100,- CZK, 4€ 31d**
 - /anvil - Oprava věcí
