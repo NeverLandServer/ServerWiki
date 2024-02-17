@@ -3,15 +3,15 @@
 **Příkazy**
 | Ostatní stejné jako hráčské |
 
-/anvil - Otevře okno s kovadlinou
-/crafting - Virtuální crafting
-/hat - Pokrývka hlavy
-/heal - Doplnění srdíček
-/repair - Oprava itemu
-/kit vip - Obdržíš kit pro VIP
-/setwarp <warp> - Vytvoří warp tam kde stojíš.
-/delwarp <warp> - Odstraní tvůj warp.
-/fly - Aktivuje a Deaktivuje létání.
+- /anvil - Otevře okno s kovadlinou
+- /crafting - Virtuální crafting
+- /hat - Pokrývka hlavy
+- /heal - Doplnění srdíček
+- /repair - Oprava itemu
+- /kit vip - Obdržíš kit pro VIP
+- /setwarp <warp> - Vytvoří warp tam kde stojíš.
+- /delwarp <warp> - Odstraní tvůj warp.
+- /fly - Aktivuje a Deaktivuje létání.
 
 **Výhody VIP, 100,- CZK, 4€ 31d**
 - /anvil - Oprava věcí
