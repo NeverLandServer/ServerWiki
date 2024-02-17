@@ -12,6 +12,7 @@
 - /setwarp <warp> - Vytvoří warp tam kde stojíš.
 - /delwarp <warp> - Odstraní tvůj warp.
 - /fly - Aktivuje a Deaktivuje létání.
+- /vipexpire - Zjistíš kdy ti vyprší VIP.
 
 **Výhody VIP, 100,- CZK, 4€ 31d**
 - /anvil - Oprava věcí
