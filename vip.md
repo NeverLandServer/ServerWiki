@@ -2,7 +2,7 @@
 
 ### Příkazy
 > [!NOTE]
-> Tito příkazy jsou dostupné pro VIP hráče, ostatní jsou stejné jako pro hráče.
+> Tyto příkazy jsou dostupné pro VIP hráče, ostatní jsou stejné jako pro hráče.
 
 - /anvil - Otevře okno s kovadlinou
 - /crafting - Virtuální crafting

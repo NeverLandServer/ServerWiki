@@ -24,32 +24,32 @@ Základ pluginu je:
 ## Lokace Zadavatelů
 
 **Lovec:**\
-**Souřadnice:**\
-![Hunter](https://i.imgur.com/YlgE86G.jpg =250x250)
+**Souřadnice:** Příroda, X:2139 Y: 74 Z: 1636\
+<img src="https://i.imgur.com/YlgE86G.jpg" title="Lovec" height=250>
 
 **Horník:**\
-**Souřadnice:**\
-![Miner](https://i.imgur.com/eacecPe.jpg =250x250)
+**Souřadnice:** Příroda, X:2061 Y: 79 Z: 1621\
+<img src="https://i.imgur.com/eacecPe.jpg" title="Horník" height=250>
 
 
  **Dřevorubec:**\
- **Souřadnice:**\
-![Lumberjack](https://i.imgur.com/pLd5RWz.jpg =250x250)
+ **Souřadnice:** Příroda X:2062 Y: 78 Z: 1717\
+<img src="https://i.imgur.com/pLd5RWz.jpg" title="Dřevorubec" height=250>
 
 **Farmář:**\
-**Souřadnice:**\
-![Farmer](https://i.imgur.com/G4L2Ek8.jpg =250x250)
+**Souřadnice:** Příroda X:2133 Y: 78 Z: 1726\
+<img src="https://i.imgur.com/G4L2Ek8.jpg" title="Farmář" height=250>
 
 **Rybář:**\
-**Souřadnice:**\
-![Fisherman](https://i.imgur.com/MwcxyUL.jpg =250x250)
+**Souřadnice:** Příroda X:2121 Y: 75 Z: 1637\
+<img src="https://i.imgur.com/MwcxyUL.jpg" title="Rybář" height=250>
 
 **Výroba&Crafting**:\
-**Souřadnice**: Zatím chybí\
+**Souřadnice**: Zatím chybí
 
 **Bossové:**\
-**Souřadnice**: Zatím chybí\
+**Souřadnice**: Zatím chybí
 
 **Speciální Mise:**\
-**Souřadnice:**\
-![SpecialQuests](https://i.imgur.com/hLFJ6lK.jpg =250x250)
+**Souřadnice:** Příroda, X:2109 Y: 74 Z: 1681\
+<img src="https://i.imgur.com/hLFJ6lK.jpg" height=250>
