@@ -1,11 +1,11 @@
-### Ochrana Pozemků
+<div align=center>
+
+# Ochrana Pozemků
 
 Na serveru se nachází, plugin Residence(Pro hráče) a WorldGuard(Tento je pouze pro admin tým.)
 
-<center>
-
 [![Video Tutorial](https://media.forgecdn.net/avatars/71/275/636163258283180440.png)](https://www.youtube.com/watch?v=CaSxLwY0tqY)
-</center>
+</div>
 
 ### Popis infomací
 > [!NOTE]

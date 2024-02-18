@@ -1,10 +1,15 @@
+<div align=center>
+
 # Mise & Questy
 Server nabízí všem hráčům nějaké mise či questy dejme tomu.
 Každý hráč si quest může vybrat dle svého uvážení, za předpokladu že má quest odemčen.
 
 Některé úlohy važadují splnit nějaký quest aby se hráči odemčel.
+</div>
 
-Základ pluginu je: 
+> [!NOTE]
+> Plugin pro questy je forkem: [Quests](https://github.com/LMBishop/Quests)
+> Zde najdeš [Můj Fork](https://github.com/EncryptSL/Quests), pro Neverland.
 
 ## Kategorie úloh:
 - Lovec

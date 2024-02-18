@@ -1,6 +1,9 @@
+<div align=center>
+
 # Hráčské Příkazy
 
 Zde najdeš seznam příkazů dostupné pro hráče, nejsou zde všechny ale více méně tyhle jsou nejdůležitější.
+</div>
 
 ## Dostupné Příkazy pro Hráče
 

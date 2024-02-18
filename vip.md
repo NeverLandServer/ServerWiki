@@ -1,4 +1,7 @@
+<div align=center>
+
 # VIP Příkazy
+</div>
 
 ### Příkazy
 > [!NOTE]
