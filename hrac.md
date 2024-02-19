@@ -17,6 +17,9 @@ Zde najdeš seznam příkazů dostupné pro hráče, nejsou zde všechny ale ví
 - /cpay <nick> <částka> - Pošleš hráči kredity.
 - /credit bal - Vypíše stav tvého stav kreditního konta.
 
+- /shop - Otevře běžný obchod s materiálem atd..
+- /creditshop - Otevře speciální obchod určený pro kreditní měnu.
+
 **Běžné Príkazy:**
 - /afk - Nastaví hráče jako AFK.
 - /aukce - Otevře okno s aukcemi.
@@ -32,6 +35,7 @@ Zde najdeš seznam příkazů dostupné pro hráče, nejsou zde všechny ale ví
 - /warp <warp> - Teleportuje tě na warp.
 - /warps - Otevře okno s veřejnými warpy, zároveň v okně můžeš najít tlačítko pro otevřeních tvých vytvořených warpů.
 - /echest - Otevře virtuální enderchest.
+- /helpop <zpráva> - Pošle online členovi AdminTeamu zprávu do chatu, která je soukromá.
 - /feedback <zpráva> - Pošle admin teamu tvůj feedback.
 - /report <nick> <kategorie> <zpráva> - Pošle admin teamu report hráče.
 - /msg, tell, pm, w <nick> <zpráva> - Pošle hráči privátní zprávu.
